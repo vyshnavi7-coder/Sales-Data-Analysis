@@ -4,10 +4,17 @@ A comprehensive Data Analytics project that analyzes retail sales data to uncove
 
 ---
 
-## 🚀 Live Dashboard
+## 🌐 Live Demo
 
-* Dashboard: Add your deployed Streamlit link here
-* GitHub Repository: https://github.com/vyshnavi7-coder/Sales-Data-Analysis
+🚀 **Live Dashboard:**  
+👉 **https://e-commerce-sales-analysis-ngbixjgsa3wcbm8rw3bgor.streamlit.app/**
+
+Or click here:
+
+### 🔗 [View the Interactive Sales Dashboard](https://e-commerce-sales-analysis-ngbixjgsa3wcbm8rw3bgor.streamlit.app/)
+
+💻 **GitHub Repository:**  
+👉 https://github.com/vyshnavi7-coder/Sales-Data-Analysis
 
 ---
 
@@ -56,13 +63,13 @@ This project focuses on analyzing retail sales data to help businesses make data
 
 ## 📂 Project Structure
 
-```
+```text
 Sales-Data-Analysis
 │
-├── dashboard/
-├── notebooks/
-├── dataset/
-├── images/
+├── dashboard
+├── notebooks
+├── dataset
+├── images
 ├── requirements.txt
 ├── README.md
 └── LICENSE
@@ -100,8 +107,6 @@ streamlit run dashboard/dashboard.py
 
 ## 📊 Dashboard Insights
 
-This dashboard provides:
-
 - Total Sales
 - Total Revenue
 - Monthly Sales Trends
@@ -118,7 +123,7 @@ This dashboard provides:
 - Identified the highest-performing product categories.
 - Analyzed seasonal sales patterns.
 - Evaluated customer purchasing behavior.
-- Generated actionable business recommendations using data visualization.
+- Generated actionable business recommendations through interactive visualizations.
 
 ---
 
@@ -126,7 +131,7 @@ This dashboard provides:
 
 Add dashboard screenshots here.
 
-```
+```text
 Dashboard
 
 Sales Trends
@@ -144,10 +149,10 @@ Customer Analysis
 
 **Vyshnavi Chinthala**
 
-GitHub:
+**GitHub:**  
 https://github.com/vyshnavi7-coder
 
-LinkedIn:
+**LinkedIn:**  
 https://www.linkedin.com/in/vyshnavi-chinthala-9949aa310
 
 ---
@@ -157,7 +162,7 @@ https://www.linkedin.com/in/vyshnavi-chinthala-9949aa310
 - Sales Forecasting
 - Customer Segmentation
 - Predictive Analytics
-- AI-based Business Recommendations
+- AI-powered Business Recommendations
 - Power BI Dashboard
 - SQL Integration
 
