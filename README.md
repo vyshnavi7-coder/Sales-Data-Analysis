@@ -36,8 +36,7 @@ This project aims to analyse e-commerce sales data to uncover valuable insights,
 ## 🚀 How to Run Locally
 1. **Clone the repository:**
 ```sh
-git clone https://github.com/mayhemds/ecommerce-dashboard.git
-cd ecommerce-dashboard
+git clone https://github.com/vyshnavi7-coder/Sales-Data-Analysis.git
 ```
 2. **Install dependencies:**
 ```sh
