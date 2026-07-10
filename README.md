@@ -1,58 +1,168 @@
-# 📊 E-commerce Sales Analysis & Dashboard
+# 📊 Sales Insights Dashboard
 
-## 🎯 Project Goal
-This project aims to analyse e-commerce sales data to uncover valuable insights, such as top-selling products, revenue trends, and customer purchasing behaviour. Additionally, an **interactive Streamlit dashboard** is built to allow dynamic exploration of the dataset.
-
-## ✅ Outcomes
-- **Data Cleaning & Preprocessing:** Fixed missing values, standardised formats, and calculated total revenue.
-- **Exploratory Data Analysis (EDA):** Identified best-selling products, peak sales periods, and revenue distribution.
-- **Visualizations:** Used Matplotlib and Seaborn to create meaningful charts.
-- **Interactive Dashboard:** Developed with Streamlit, featuring:
-  - **Sales trends over time**
-  - **Best-selling products analysis**
-  - **Revenue breakdown by category**
-  - **Dynamic filtering for product categories**
-
-## 🛠️ Technologies Used
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- **Streamlit** (for dashboard visualization)
-- **Jupyter Notebook** (for exploratory data analysis)
-- **Excel & OpenPyXL** (for dataset handling)
-
-## 📂 Project Structure
-```
-📁 ecommerce-dashboard/
-│── 📁 data/                 # Raw dataset
-│    ├── ecommerce_sales.xlsx
-│── 📁 notebooks/            # Jupyter Notebook analysis
-│    ├── ecommerce_analysis.ipynb
-│── 📁 dashboard/            # Streamlit app
-│    ├── dashboard.py
-│── requirements.txt         # Dependencies
-│── LICENSE                  # View-only license
-│── README.md                # Project documentation
-```
-
-## 🚀 How to Run Locally
-1. **Clone the repository:**
-```sh
-git clone https://github.com/vyshnavi7-coder/Sales-Data-Analysis.git
-```
-2. **Install dependencies:**
-```sh
-pip install -r requirements.txt
-```
-3. **Run the Streamlit dashboard:**
-```sh
-streamlit run dashboard/dashboard.py
-```
-
-## 🌎 Live Dashboard
-🔗 **View the interactive dashboard:** [Streamlit Deployment Link](https://e-commerce-sales-analysis-ngbixjgsa3wcbm8rw3bgor.streamlit.app/)
-
-## 📝 License
-This project is provided for **viewing purposes only**. You **may not** modify, distribute, sublicense, or sell any part of this project. See the [LICENSE](LICENSE) file for details.
+A comprehensive Data Analytics project that analyzes retail sales data to uncover business insights, identify customer purchasing trends, and visualize key performance indicators (KPIs). The project demonstrates data cleaning, exploratory data analysis (EDA), and interactive dashboard development using Python.
 
 ---
 
-📧 Questions or feedback? Feel free to reach out!
+## 🚀 Live Dashboard
+
+* Dashboard: Add your deployed Streamlit link here
+* GitHub Repository: https://github.com/vyshnavi7-coder/Sales-Data-Analysis
+
+---
+
+## 📌 Project Overview
+
+This project focuses on analyzing retail sales data to help businesses make data-driven decisions. It provides visualizations and insights into sales performance, product categories, customer behavior, and revenue trends.
+
+---
+
+## ✨ Features
+
+- 📈 Sales Performance Dashboard
+- 📊 Interactive Data Visualizations
+- 🛒 Product Category Analysis
+- 👥 Customer Purchase Analysis
+- 💰 Revenue & Profit Analysis
+- 📅 Monthly & Yearly Sales Trends
+- 🔍 Exploratory Data Analysis (EDA)
+- 📌 Business Insights & Recommendations
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Language
+
+- Python
+
+### Libraries
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
+- Streamlit
+
+### Tools
+
+- Jupyter Notebook
+- VS Code
+- Git
+- GitHub
+
+---
+
+## 📂 Project Structure
+
+```
+Sales-Data-Analysis
+│
+├── dashboard/
+├── notebooks/
+├── dataset/
+├── images/
+├── requirements.txt
+├── README.md
+└── LICENSE
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/vyshnavi7-coder/Sales-Data-Analysis.git
+```
+
+Move into the project directory
+
+```bash
+cd Sales-Data-Analysis
+```
+
+Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the Streamlit dashboard
+
+```bash
+streamlit run dashboard/dashboard.py
+```
+
+---
+
+## 📊 Dashboard Insights
+
+This dashboard provides:
+
+- Total Sales
+- Total Revenue
+- Monthly Sales Trends
+- Product Category Performance
+- Top Selling Products
+- Customer Purchase Distribution
+- Sales by Region
+- Revenue Growth Analysis
+
+---
+
+## 📈 Business Insights
+
+- Identified the highest-performing product categories.
+- Analyzed seasonal sales patterns.
+- Evaluated customer purchasing behavior.
+- Generated actionable business recommendations using data visualization.
+
+---
+
+## 📸 Screenshots
+
+Add dashboard screenshots here.
+
+```
+Dashboard
+
+Sales Trends
+
+Revenue Analysis
+
+Product Performance
+
+Customer Analysis
+```
+
+---
+
+## 👩‍💻 Developer
+
+**Vyshnavi Chinthala**
+
+GitHub:
+https://github.com/vyshnavi7-coder
+
+LinkedIn:
+https://www.linkedin.com/in/vyshnavi-chinthala-9949aa310
+
+---
+
+## ⭐ Future Enhancements
+
+- Sales Forecasting
+- Customer Segmentation
+- Predictive Analytics
+- AI-based Business Recommendations
+- Power BI Dashboard
+- SQL Integration
+
+---
+
+## 📜 License
+
+This project is developed for learning, portfolio, and data analytics practice purposes.
